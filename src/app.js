@@ -1,5 +1,4 @@
 
-  elements.shareBtn.addEventListener('click', onShare);
 
   window.addEventListener('DOMContentLoaded', () => {
     const parsedUrl = new URL(window.location);
