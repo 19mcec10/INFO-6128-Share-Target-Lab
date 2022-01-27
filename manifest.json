@@ -1,7 +1,7 @@
 {
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
-  "start_url": "https://dev.localhost",
+  "start_url": "https://19mcec10.github.io/pwa-boilerplate-main/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
@@ -41,7 +41,7 @@
   ],
   
   "share_target": {
-    "action": "/https://dev.localhost/",
+    "action": "https://19mcec10.github.io/pwa-boilerplate-main/",
     "method": "GET",
     "params": {
       "title": "name",
