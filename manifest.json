@@ -1,8 +1,8 @@
 {
   "name": "Share app",
   "short_name": "Share app",
-  "start_url": "/https://19mcec10.github.io/INFO-6128-Share-Target-Lab/",
-  "scope": "/https://19mcec10.github.io/INFO-6128-Share-Target-Lab/",
+  "start_url": "https://19mcec10.github.io/INFO-6128-Share-Target-Lab/",
+  "scope": "https://19mcec10.github.io/INFO-6128-Share-Target-Lab/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#fff",
@@ -42,12 +42,12 @@
   ],
   
   "share_target": {
-    "action": "/https://19mcec10.github.io/INFO-6128-Share-Target-Lab/",
+    "action": "https://19mcec10.github.io/INFO-6128-Share-Target-Lab/",
     "method": "GET",
     "params": {
-      "title": "name",
-      "text": "description",
-      "url": "link"
+      "title": "title",
+      "text": "text",
+      "url": "url"
     
     }
   }
