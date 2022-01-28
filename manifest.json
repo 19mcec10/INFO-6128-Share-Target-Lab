@@ -2,6 +2,7 @@
   "name": "Share app",
   "short_name": "Share app",
   "start_url": "https://19mcec10.github.io/pwa-boilerplate-main/",
+  "scope": "https://19mcec10.github.io/pwa-boilerplate-main/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
